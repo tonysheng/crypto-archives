@@ -357,7 +357,7 @@ Here are the links to all major types of  [consensus algorithms](https://medium.
 
 ### Leaderless Consensus
 
- [Hashgraph](https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)  by Leeman Baird ( [ipfs](https://gateway.ipfs.io/ipfs/QmcVN4MhMPfYfNC9JuHaPwcKNWfH5sSxh1spLWkcdNNEiU) )
+ [Hashgraph](https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)  by Leemon Baird ( [ipfs](https://gateway.ipfs.io/ipfs/QmcVN4MhMPfYfNC9JuHaPwcKNWfH5sSxh1spLWkcdNNEiU) )
 * Describes a consensus protocol that reduces a blockDAG to a sequential blockchain via virtual voting and gossip about gossip. [2016]
 
 
