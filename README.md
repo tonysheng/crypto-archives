@@ -819,9 +819,7 @@ Parity MultiSig #1:  [post-mortem](https://www.parity.io/the-multi-sig-hack-a-po
 
 
  [Front-running Bancor](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)  by Ivan Bogatyy ( [ipfs](https://gateway.ipfs.io/ipfs/Qmf4qVvnEcaC4PmmyQd9dUvAXmZLrKjEC3ZnB9b3nciDP6) )
-* Describes an exploit that leveraged a game-theoretic security flaw in the smart contracts 
-
-governing the Bancor exchange to allow non-miners to front-run trades. [2017]
+* Describes an exploit that leveraged a game-theoretic security flaw in the smart contracts governing the Bancor exchange to allow non-miners to front-run trades. [2017]
 
 Parity MultiSig #2:  [post-mortem](https://www.parity.io/a-postmortem-on-the-parity-multi-sig-library-self-destruct/)  and  [deep dive](https://hackernoon.com/parity-wallet-hack-2-electric-boogaloo-e493f2365303)  by Parity Technologies and Matt Condon, respectively ( [ipfs1](https://gateway.ipfs.io/ipfs/Qmcru7bmRZL9RTo6zE3WLEC1vPUhRZpxQfJgvx15Sh7m6K) ,  [ipfs2](https://gateway.ipfs.io/ipfs/QmZFXb2yQuSxu6U4YmZqA6z7Tir2MWknSJcCD1s315acGd) )
 * Explains how 513k ETH was locked in Parity’s wallet smart contracts by a developer that accidentally removed a dependency from the blockchain. [2017]
@@ -833,6 +831,9 @@ Parity MultiSig #2:  [post-mortem](https://www.parity.io/a-postmortem-on-the-par
 
  [Predicting Random Numbers in Ethereum Smart Contracts](https://blog.positive.com/predicting-random-numbers-in-ethereum-smart-contracts-e5358c6b8620)  by Arseny Reutov ( [ipfs](https://gateway.ipfs.io/ipfs/QmNULfQ8zzsZHyHeMQ3wJXGBxXQ83TSsrerXhBy2i6btrQ) )
 * Identifies four different categories of vulnerable pseudo-random number generators (PRNGs) used in smart contracts deployed on the Ethereum mainnet. [2018]
+
+[Binance BTC Theft](https://binance.zendesk.com/hc/en-us/articles/360028031711) by Binance ( [ipfs](https://gateway.ipfs.io/ipfs/QmRt56sWde3iui93PywnZV1HNDCJEq1AEKEkLZH9vct7Ap) )
+* Details how hackers were able to "obtain a large number of user API keys, 2FA codes," and successfully withdraw 7000 BTC ($40M at the time) from the Binance Exchange. [2019]
 
 # 🔗 External Resources
  [Whitepaper Database](http://diyhpl.us/~bryan/papers2/bitcoin/)  by Bryan Bishop
