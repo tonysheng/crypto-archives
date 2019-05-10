@@ -472,8 +472,33 @@ Here are the links to all major types of  [state machines](https://ocw.mit.edu/c
 * Describes a network of payment channels for private blockchains that would allow for members to send anonymous payments through at-most a single intermediary. [2018]
 
 
+[Why is EVM-on-Plasma hard?](https://medium.com/@kelvinfichter/why-is-evm-on-plasma-hard-bf2d99c48df7) by Kelvin Fichter ( [ipfs](https://gateway.ipfs.io/ipfs/QmZ4Hp7tgnC115TrR7NHEmhNYxYdoSqEHb7CVrM1xYPvkm) )
+* Why full EVM support on Plasma is non-trivial, and some suggestions for how to create a Plasma chain more capable of running general smart contracts. [2018]
+
+
  [Making Sense of Ethereum’s Layer 2 Scaling Solutions](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)  by Josh Stark ( [ipfs](https://gateway.ipfs.io/ipfs/QmdPiruUZaDTLePBUyEhZTqyyfV6kQSBP4jARiXy72vsDp) )
 * A summary of state channels, Plasma, and Truebit. [2018]
+
+
+[The Arwen Trading Protocols](https://www.arwen.io/whitepaper.pdf) by Ethan Heilman, Sebastien Lipmann, Sharon Goldberg ( [ipfs](https://gateway.ipfs.io/ipfs/QmSFPkyEBfCkGot4LK5a6Dk9fQaNCmg7drzPVGyKnBJKpK) )
+* A new protocol that allows traders to securely trade cryptocurrencies at a centralized exchange, without ceding custody of their coins to the exchange. [2019]
+
+
+[Nitro Protocol](https://eprint.iacr.org/2019/219.pdf) by Tom Close ( [ipfs](https://gateway.ipfs.io/ipfs/QmW5BfwCs3K8V8X7D77cjBk6JZ6rPpszhKPS74HoycDgKS) )
+* A new protocol for constructing state channel networks that allows state channels to be opens and closed without on-chain transactions. [2019]
+
+
+[Fraud Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/pdf/1809.09044.pdf) by Mustafa Al-Bassam, Alberto Sonnino, Vitalik Buterin ( [ipfs](https://gateway.ipfs.io/ipfs/QmZtovZVvSd1ib3ueVQTz1zbTyxmMw37NYnAGGU8qQoR7J) )
+* Fraud and data availability proofs are key to enabling on-chain scaling of blockchains (e.g. via sharding or bigger blocks) while maintaining a strong assurance that on-chain data is available and valid. [2019]
+
+
+[The Rainbow Network: An Off-Chain Decentralized Synthetics Exchange](https://rainbownet.work/RainbowNetwork.pdf) by Dan Robinson ( [ipfs](https://gateway.ipfs.io/ipfs/QmWteZux8LFfStVhmv6qqe7HCZFC5MJrsz1RqDLxHcg1iJ) )
+* A design for an off-chain non-custodial exchange and payment network supporting any liquid asset. [2019]
+
+
+[SoK: Off The Chain Transactions](https://eprint.iacr.org/2019/360.pdf) by Arthur Gervais, Lewis Gudgeon, Patrick McCorry, Pedro Moreno-Sanchez, Stefanie Roos ( [ipfs](https://gateway.ipfs.io/ipfs/QmchSu4PNKwDsjXmraqeXFDamHHNyG4q5uYZBi6CDGBLuP) )
+* A Systemization of Knowledge that structures the complete body of research on layer-two transactions. [2019]
+
 
 ## Sharding
  [Minimal VDF Randomness Beacon](https://ethresear.ch/t/minimal-vdf-randomness-beacon/3566)  by Justin Drake ( [ipfs](https://gateway.ipfs.io/ipfs/QmUR7RRTfzbxBg2v7wnry39Z7jRmrkJMDV9dN5fGptfeZo) )
