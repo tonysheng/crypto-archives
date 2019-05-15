@@ -485,7 +485,7 @@ Here are the links to all major types of  [state machines](https://ocw.mit.edu/c
 
 
 [Nitro Protocol](https://eprint.iacr.org/2019/219.pdf) by Tom Close ( [ipfs](https://gateway.ipfs.io/ipfs/QmW5BfwCs3K8V8X7D77cjBk6JZ6rPpszhKPS74HoycDgKS) )
-* A new protocol for constructing state channel networks that allows state channels to be opens and closed without on-chain transactions. [2019]
+* A new protocol for constructing state channel networks that allows state channels to be opened and closed without on-chain transactions. [2019]
 
 
 [Fraud Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/pdf/1809.09044.pdf) by Mustafa Al-Bassam, Alberto Sonnino, Vitalik Buterin ( [ipfs](https://gateway.ipfs.io/ipfs/QmZtovZVvSd1ib3ueVQTz1zbTyxmMw37NYnAGGU8qQoR7J) )
