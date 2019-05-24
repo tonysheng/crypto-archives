@@ -74,8 +74,8 @@ Thank you to our launch contributors that helped make this project possible!
 * Proposed an anonymous, distributed electronic cash system using PoW. [1998]
 
 
- [Karma](https://www.cs.cornell.edu/people/egs/papers/karma.pdf)  by Vivek Vishnumurthy, Sangeeth Chandrakumar and Emin Gün Sirer ( [ipfs](https://gateway.ipfs.io/ipfs/QmWNZaXWTPJ26Z4gcVxF9jb7JywUi6Nd6JHrdp7DD8ZtWf) )
-* First cryptocurrency to use a distributed mint based on PoW. [2003]
+ [How To Time-Stamp A Digital Document](https://link.springer.com/chapter/10.1007/3-540-38424-3_32) by Stuart Haber and W. Scott Stornetta
+ * First proposal for the ledger data-structure that bitcoin uses with minimal modifications. [1991]
 
 
  [Bit Gold](https://nakamotoinstitute.org/bit-gold/)  by Nick Szabo ( [ipfs](https://gateway.ipfs.io/ipfs/QmW9ZZM9Ay51yYqCstMnxAKpM86N9YHkynY1t8vqq7Yvvg) )
